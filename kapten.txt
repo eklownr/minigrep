@@ -1,0 +1,5 @@
+Searching for: kap
+In file: poem.txt
+”En man är vräkt över bord, kapten!”
+”Ännu kan ni rädda hans liv, kapten!”
+”Nu sjönk han, nu syns han ej mer, kapten!”
